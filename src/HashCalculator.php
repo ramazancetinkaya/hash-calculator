@@ -19,9 +19,6 @@ namespace HashCalculator;
  * HashCalculator class
  *
  * This class provides methods for generating hash values using various algorithms.
- *
- * @category  Library
- * @package   HashCalculator
  */
 class HashCalculator
 {
